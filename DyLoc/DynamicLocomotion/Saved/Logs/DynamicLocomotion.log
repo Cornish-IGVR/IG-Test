@@ -805,3 +805,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.30-18.16.37:924][909]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4326
 [2019.10.30-18.16.46:458][198]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4316
 [2019.10.30-18.16.53:303][430]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4306
+[2019.10.30-18.17.10:405][891]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4296
+[2019.10.30-18.17.12:507][962]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4286
+[2019.10.30-18.17.25:583][382]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4276
+[2019.10.30-18.17.27:476][446]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4266
+[2019.10.30-18.17.28:000][464]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4256
+[2019.10.30-18.17.34:202][674]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4246
+[2019.10.30-18.17.34:938][699]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4236
+[2019.10.30-18.17.48:544][158]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4226
+[2019.10.30-18.17.53:618][328]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4216
+[2019.10.30-18.17.59:729][524]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4206
+[2019.10.30-18.18.11:520][838]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4196
+[2019.10.30-18.18.15:639][977]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4186
+[2019.10.30-18.18.22:824][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4176
